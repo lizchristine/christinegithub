@@ -1,0 +1,6 @@
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\bin\JQueryBegin.dll.config
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\bin\JQueryBegin.dll
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\bin\JQueryBegin.pdb
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\obj\Debug\JQueryBegin.csprojResolveAssemblyReference.cache
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\obj\Debug\JQueryBegin.dll
+C:\Work\2014\Projects\UDEMY\Learning jQuery Programming\JQueryBegin\obj\Debug\JQueryBegin.pdb
