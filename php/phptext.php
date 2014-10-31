@@ -27,7 +27,14 @@
         if (method_exists($me, "dance")) {
           echo "and I know how to dance!";
         }
+        }
+        if (method_exists($me, "dance")) {
+          echo "and I know how to sing!";
+        }
+        
       ?>
     </p>
   </body>
 </html>
+
+
